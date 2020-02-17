@@ -1,0 +1,20 @@
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\bin\Debug\Performance task 4th quarter.exe
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\bin\Debug\Performance task 4th quarter.pdb
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\bin\Debug\Performance task 4th quarter.xml
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.vbproj.GenerateResource.Cache
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.exe
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.xml
+C:\Users\SHS-12\documents\visual studio 2010\Projects\Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.pdb
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.exe
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.xml
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.pdb
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\bin\Debug\Performance task 4th quarter.exe
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\bin\Debug\Performance task 4th quarter.pdb
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\bin\Debug\Performance task 4th quarter.xml
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\WindowsApplication1.login.resources
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x86\Debug\Performance task 4th quarter.vbproj.GenerateResource.Cache

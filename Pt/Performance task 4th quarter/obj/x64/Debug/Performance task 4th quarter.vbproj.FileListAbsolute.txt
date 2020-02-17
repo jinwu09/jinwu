@@ -1,0 +1,10 @@
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\bin\x64\Debug\Performance task 4th quarter.exe
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\bin\x64\Debug\Performance task 4th quarter.pdb
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\bin\x64\Debug\Performance task 4th quarter.xml
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\WindowsApplication1.Form1.resources
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\WindowsApplication1.login.resources
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\WindowsApplication1.Resources.resources
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\Performance task 4th quarter.vbproj.GenerateResource.Cache
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\Performance task 4th quarter.exe
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\Performance task 4th quarter.xml
+D:\Projects\Performance task\#2 Performance task 4th quarter\Performance task 4th quarter\obj\x64\Debug\Performance task 4th quarter.pdb
